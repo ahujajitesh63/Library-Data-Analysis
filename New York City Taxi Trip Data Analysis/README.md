@@ -28,7 +28,7 @@ Plotly
 ## License
 The New York City Taxi Trip data is available under the Open Data Commons Attribution License.
 
-### Output
+## Output
 * Result - 1 - Bar chart of Passenger count distribution
 <img src="/New York City Taxi Trip Data Analysis/newplot.png" alt="data" title="Data title">
 

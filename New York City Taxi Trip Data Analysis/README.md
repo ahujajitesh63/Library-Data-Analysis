@@ -11,9 +11,11 @@ https://data.cityofnewyork.us/api/views/biws-g3hs/rows.csv?accessType=DOWNLOAD&b
 ## Analysis
 The following analyses were performed on the data:
 
-Bar chart of Passenger count distribution
-Histogram of trip distance to fare amount
-Bar chart of trip distance distribution
+1. Bar chart of Passenger count distribution
+
+2. Histogram of trip distance to fare amount
+
+3. Bar chart of trip distance distribution
 
 ## Dependencies
 The following libraries were used for data analysis and visualization:

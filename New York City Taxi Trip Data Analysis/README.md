@@ -11,9 +11,9 @@ https://data.cityofnewyork.us/api/views/biws-g3hs/rows.csv?accessType=DOWNLOAD&b
 ## Analysis
 The following analyses were performed on the data:
 
-Histogram of trip distance distribution
-Box plot of fare amount by payment type
-Bar chart of passenger count frequency
+Bar chart of Passenger count distribution
+Histogram of trip distance to fare amount
+Bar chart of trip distance distribution
 
 ## Dependencies
 The following libraries were used for data analysis and visualization:
@@ -25,16 +25,16 @@ Plotly
 The New York City Taxi Trip data is available under the Open Data Commons Attribution License.
 
 ### Output
-* Result - 1 - Bar chart of passenger count frequency
+* Result - 1 - Bar chart of Passenger count distribution
 <img src="/New York City Taxi Trip Data Analysis/newplot.png" alt="data" title="Data title">
 
-* Result - 2 - Histogram of trip distance distribution
+* Result - 2 - Histogram of trip distance to fare amount
 <img src="
-//New York City Taxi Trip Data Analysis/newplot (1).png" alt="data" title="Data title">
+/New York City Taxi Trip Data Analysis/newplot (1).png" alt="data" title="Data title">
 
-* Result - 3 -Box plot of fare amount by payment type
+* Result - 3 - Bar chart of trip distance distribution
 <img src="
-//New York City Taxi Trip Data Analysis/newplot (2).png" alt="data" title="Data title">
+/New York City Taxi Trip Data Analysis/newplot (2).png" alt="data" title="Data title">
 
 
 

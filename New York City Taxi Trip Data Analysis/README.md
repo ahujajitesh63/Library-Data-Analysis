@@ -15,9 +15,9 @@ The following analyses were performed on the data:
 
 1. Bar chart of Passenger count distribution
 
-2. Histogram of trip distance to fare amount
+2. Scatter plot of trip distance to fare amount
 
-3. Bar chart of trip distance distribution
+3. Histogram of trip distance distribution
 
 ## Dependencies
 The following libraries were used for data analysis and visualization:

@@ -32,10 +32,10 @@ The New York City Taxi Trip data is available under the Open Data Commons Attrib
 * Result - 1 - Bar chart of Passenger count distribution
 <img src="/New York City Taxi Trip Data Analysis/newplot.png" alt="data" title="Data title">
 
-* Result - 2 - Histogram of trip distance to fare amount
+* Result - 2 - Scatter plot of trip distance to fare amount
 <img src="/New York City Taxi Trip Data Analysis/newplot (1).png" alt="data" title="Data title">
 
-* Result - 3 - Bar chart of trip distance distribution
+* Result - 3 - Histogram of trip distance distribution
 <img src="/New York City Taxi Trip Data Analysis/newplot (2).png" alt="data" title="Data title">
 
 
